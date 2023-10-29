@@ -1,3 +1,3 @@
 # rishikothari-git
 First Git Repository<br>
-Author: Rishi Kothari
+Author: Rishi Kothari(Kotsa Mewar)
